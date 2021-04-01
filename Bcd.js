@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 export default function Bcd() {
     return (
         <View>
-            <Text></Text>
+            <Text>dfsdfsd</Text>
         </View>
     )
 }
